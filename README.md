@@ -15,7 +15,7 @@
 
 <div id="subtitle" align="center">
 
-## Skills
+# Skills
 
 <img src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif" width="50%">
 
@@ -47,7 +47,7 @@
 
 <div id="subtitle" align="center">
 
-## Stats
+# Stats
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div id="subtitle" align="center">
 
-## Contact
+# Contact
 
 </div>
 
@@ -78,7 +78,7 @@ u20221b127@upc.edu.pe
 
 <div id="subtitle" align="center">
 
-## Social media
+# Social media
 
 </div>
 
