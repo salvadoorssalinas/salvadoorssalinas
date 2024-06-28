@@ -1,6 +1,6 @@
 <div id="title" align="center">
 
-# Hello 🐱‍👤, I'm Salvador Salinas
+# Hi 🐱, I'm Salvador Salinas!
 
 <img src="https://cdn.dribbble.com/users/706421/screenshots/6764554/frank_dribbble.gif" width="50%">
 
@@ -21,28 +21,30 @@
 
 </div>
 
-<div id="skills" align="center">
-<h2>OOP, Data Structures</h2>
-<img src="https://static-00.iconduck.com/assets.00/c-icon-456x512-ld9qap3k.png" width="60px">
-<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="60px">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" width="60px">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-22-225997.png?f=webp&w=256" width="60px">
 
-<h2>Web Development Basics</h2>
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256" width="60px">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256" width="60px">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=webp&w=256" width="60px">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=256" width="60px">
+## Languages
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<h2>Frontend Frameworks</h2>
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-vue-282497.png?f=webp&w=256" width="60px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png?f=webp" width="60px">
 
-<h2>Database Management</h2>
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-3521596-2945040.png?f=webp&w=256" width="60px">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3-1175138.png?f=webp&w=256" width="60px">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-9-1175120.png?f=webp&w=256" width="60px">
-</div>
+## Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+## Frameworks
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
+
+## Database Management
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## IDEs
+![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+
+## Hosting
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 
 
 <div id="subtitle" align="center">
@@ -72,17 +74,4 @@ Contact me at:
 salvador.salinas224@gmail.com
 
 u20221b127@upc.edu.pe
-
 </div>
-
-
-<div id="subtitle" align="center">
-
-# Social media
-
-</div>
-
-<div id="contact" align="center">
-<a href="https://www.instagram.com/salvador.ssalinas/"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-216-721958.png?f=webp&w=256" width="60px"></a>
-<a href="https://www.linkedin.com/in/salvador-salinas-torres-b90945284/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-160-461814.png?f=webp&w=256" width="60px"></a> 
-<a href="https://open.spotify.com/user/t9hhkt3bf82mazlo4tnkxh0f3?si=862aee1ecbfe4517"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-spotify-11-432546.png?f=webp&w=256" width="60px"></a>
