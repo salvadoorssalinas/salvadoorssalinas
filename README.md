@@ -1,13 +1,11 @@
-<div id="title" align="center">
+<div id="intro" align="center">
 
 # Hi 🐱, I'm Salvador Salinas!
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="50%">
+I'm a Software Engineering student at UPC, passionate about technology and always eager to learn new things.
 
-</div>
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" height="50%">
 
-<div id="intro">
-    I'm a Software Engineering student at UPC, passionate about technology and always eager to learn new things.
 </div>
 
 <div id="subtitle" align="center">
